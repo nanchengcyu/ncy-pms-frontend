@@ -29,9 +29,9 @@ const onClickRight = () => {
   </div>
 
   <van-tabbar route active-color="blue">
-    <van-tabbar-item to="/" icon="home-o" name="index">主页</van-tabbar-item>
-    <van-tabbar-item to="/team" icon="search" name="team">队伍</van-tabbar-item>
-    <van-tabbar-item to="/user" icon="friends-o" name="user">个人</van-tabbar-item>
+    <van-tabbar-item to="/" icon="wap-home" name="index">主页</van-tabbar-item>
+    <van-tabbar-item to="/team" icon="friends" name="team">队伍</van-tabbar-item>
+    <van-tabbar-item to="/user" icon="user" name="user">个人</van-tabbar-item>
 
   </van-tabbar>
 </template>
